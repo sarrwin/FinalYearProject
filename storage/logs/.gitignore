@@ -10,3 +10,6 @@
 # Do not ignore a specific directory
 !config/
 !app/
+
+backup-repo/
+project-backup.zip
